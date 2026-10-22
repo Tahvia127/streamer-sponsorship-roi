@@ -1,0 +1,23 @@
+# macOS / exFAT metadata
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+
+# Data (download, don't commit)
+data/raw/**
+data/interim/**
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+*.parquet
+*.duckdb
+
+# data/collected/ is committed on purpose: git scraping is the storage.
