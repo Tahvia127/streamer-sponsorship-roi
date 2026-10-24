@@ -1,5 +1,7 @@
 # Are Streamer Sponsorships Worth It?
 
+Start here: [GUIDE.md](GUIDE.md)
+
 ## Business question
 
 For each dollar of marketing, how much engagement does a sponsored stream buy, and does it depend on streamer size? What share of a game's marketing budget should go to streamers, and to which tier?

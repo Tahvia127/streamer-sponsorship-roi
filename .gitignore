@@ -21,3 +21,4 @@ data/interim/**
 *.duckdb
 
 # data/collected/ is committed on purpose: git scraping is the storage.
+!data/raw/MANIFEST.md
