@@ -1,0 +1,21 @@
+snapshot_utc,steam_appid,steam_name,current_players,total_reviews,total_positive,total_negative,review_score,review_score_desc,error
+2026-11-28T07:40:41+00:00,730,Counter-Strike 2,694889,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,570,Dota 2,560960,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,578080,PUBG: BATTLEGROUNDS,415135,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1172470,Apex Legends,148837,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,2767030,Marvel Rivals,44796,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,2357570,Overwatch,33524,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1938090,Call of Duty,79894,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,359550,Tom Clancy's Rainbow Six Siege,41603,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1203220,NARAKA: BLADEPOINT,32957,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1085660,Destiny 2,17456,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,230410,Warframe,54323,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,553850,HELLDIVERS 2,21625,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,252490,Rust,65789,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1623730,Palworld,28097,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,271590,Grand Theft Auto V Legacy,53445,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1086940,Baldur's Gate 3,31411,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1245620,ELDEN RING,22153,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,2246340,Monster Hunter Wilds,15128,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,2694490,Path of Exile 2,9625,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
+2026-11-28T07:40:41+00:00,1716740,Starfield,2923,,,,,,reviews: Expecting value: line 1 column 1 (char 0); 
